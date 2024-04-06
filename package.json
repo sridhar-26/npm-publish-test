@@ -1,0 +1,19 @@
+{
+  "name": "npm-publish-test",
+  "version": "1.0.0",
+  "description": "testing the publish of npm",
+  "main": "hello-world.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sridhar-26/npm-publish-test.git"
+  },
+  "author": "sridhar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sridhar-26/npm-publish-test/issues"
+  },
+  "homepage": "https://github.com/sridhar-26/npm-publish-test#readme"
+}
